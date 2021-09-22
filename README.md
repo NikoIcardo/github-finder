@@ -1,4 +1,4 @@
-A github user-search project created for Brad Travery's React Front to Back course on Udemy. 
+A github user-search project created for Brad Traversy's React Front to Back course on Udemy. 
 
 The Site is currently Live: https://flamboyant-ardinghelli-e6926e.netlify.app/
 
